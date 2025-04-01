@@ -1,0 +1,6 @@
+Usuarios registrados:
+
+username,password
+usuario,123
+usuario2,123
+usuario4,123
